@@ -1,6 +1,6 @@
 VERSION = "0.2.4"
-CREATOR = "@hafitzXD"
-BOT_NAME = "Deezfitz"
+CREATOR = "akhil"
+BOT_NAME = "Musically"
 DONATE = "https://paypal.me/hafitzsetya1"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
